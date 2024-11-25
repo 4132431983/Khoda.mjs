@@ -1,0 +1,2 @@
+# Khoda.mjs
+Allah
